@@ -19,10 +19,12 @@ The results shows a comprehensive list of things.
 * As can be concluded, the winning candidate is Diana DeGette, who got 306,055 votes, accounting for 73.8% of the total votes. 
 
 The picture below shows the result from the command line.
+
 ![result](/Resources/command_line.png)
 
 The picture below shows the result from the output txt file.
-![result](/Resources/command_line.png)
+
+![result](/Resources/txt.png)
 
 ## Election-Audit Summary
 This script has limited functions at this point. However, with further development, it is able to discover more details and provide more insights on the election audit.
